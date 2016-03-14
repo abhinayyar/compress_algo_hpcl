@@ -1,0 +1,62 @@
+ispass_AES mc_0
+bdi 
+ Total Flits original 	2936 Total Flits compressed 	2409.92
+
+cpack
+Net Input Flit : 	2936	Net Output Flit: 	1414.05
+
+local base
+Net Flit input : 	2936	Net Flit output : 	934
+
+ispass_LPS mc_0
+bdi
+Total Flits original 	7888 Total Flits compressed 	1259.84 
+
+cpack
+Net Input Flit : 	7888	Net Output Flit: 	776.645
+
+local_based
+Net Flit input : 	7888	Net Flit output : 	939
+
+ispass_STO mc_0
+bdi 
+Total Flits original 	7888 Total Flits compressed 	7644.17
+
+cpack
+Net Input Flit : 	7888	Net Output Flit: 	3422.82
+
+local_based
+Net Flit input : 	7888	Net Flit output : 	3951
+
+ispass_NN mc_0
+bdi
+Total Flits original 	7888 Total Flits compressed 	5774.72
+
+cpack
+Net Input Flit : 	7888	Net Output Flit: 	4745.43
+
+local_based
+Net Flit input : 	7888	Net Flit output : 	3841
+
+mars_PVC mc_0
+bdi
+Total Flits original 	7888 Total Flits compressed 	5697.47
+
+cpack
+Net Input Flit : 	7888	Net Output Flit: 	3679.42
+
+local_based
+Net Flit input : 	7888	Net Flit output : 	2457
+
+mars_SS
+bdi
+Total Flits original 	7888 Total Flits compressed 	497.922
+
+cpack
+Net Input Flit : 	7888	Net Output Flit: 	733.809
+
+local_based
+Net Flit input : 	7888	Net Flit output : 	198
+
+
+
